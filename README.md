@@ -1,0 +1,2 @@
+# grimoiregrid-privacy
+privacy policy
